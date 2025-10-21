@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.active{
+ @apply bg-[#1ABC9C] p-3 py-2 rounded-md
+}
