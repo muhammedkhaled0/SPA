@@ -15,8 +15,8 @@ export default function About() {
             <div className='h-1 w-20 bg-white'></div>
           </div>
           <div className='flex flex-wrap gap-x-3 gap-y-3 text-white mt-3'>
-            <p className='w-120  mx-auto'>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
-            <p className='w-120  mx-auto'>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+            <p className='lg:w-120  mx-auto'>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+            <p className='lg:w-120  mx-auto'>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
           </div>
         </div>
     </>
