@@ -43,7 +43,7 @@ export default function Portfolio() {
           onClick={() => setSelectedImage(null)}
         >
           <div className='relative top-1/2 start-1/2'>
-            <img src={selectedImage} alt="Preview" className='rounded-xl w-1/3 -translate-1/2' />
+            <img src={selectedImage} alt="Preview" className='rounded-xl lg:w-1/3 w-[80%] -translate-1/2' />
           </div>
         </div>
       )}
